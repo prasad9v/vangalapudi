@@ -1,3 +1,37 @@
 body{
     font-family: 'Lato', sans-serif;
+
+    margin:0px auto;
+    background-color: #e6e4d9;
 }
+
+#main-header{
+    background-color: #a593c2;
+
+}
+
+nav{
+    height:60px;
+    width:1000px;
+    margin:0 auto 20px;
+}
+
+#container{
+    width:1000px;
+    margin:0 auto;
+}
+
+#leftmenu{
+    width:30%;
+    float:left;
+    margin-bottom:20px;
+}
+
+.searchbox{
+    padding:5px;
+    margin:10px 10px;
+    width:200px;
+}
+
+
+
