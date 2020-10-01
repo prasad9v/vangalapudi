@@ -33,5 +33,26 @@ nav{
     width:200px;
 }
 
+#main{
+    float:right;
+    width:70%;
+    margin-bottom:20px;
+}
 
+footer{
+    clear:both;
+    width:100%;
+}
+
+header,
+main,
+aside,
+footer,
+nav,
+section,
+article,
+footer,
+figure{
+    display:block;
+}
 
