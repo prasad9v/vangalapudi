@@ -1,13 +1,11 @@
 body{
-    font-family: 'Lato', sans-serif;
-
-    margin:0px auto;
     background-color: #e6e4d9;
+    font-family:'Lato',sans-serif;
+    margin:0px auto;
 }
 
 #main-header{
     background-color: #a593c2;
-
 }
 
 nav{
@@ -22,21 +20,20 @@ nav{
 }
 
 #leftmenu{
-    width:30%;
     float:left;
+    width:30%;
     margin-bottom:20px;
 }
 
 .searchbox{
-    padding:5px;
-    margin:10px 10px;
     width:200px;
+    padding:5px;
+    margin:10px;
 }
 
 #main{
     float:right;
     width:70%;
-    margin-bottom:20px;
 }
 
 footer{
@@ -45,14 +42,33 @@ footer{
 }
 
 header,
-main,
 aside,
-footer,
-nav,
-section,
+main,
 article,
+section,
 footer,
-figure{
+figure,
+nav{
     display:block;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
