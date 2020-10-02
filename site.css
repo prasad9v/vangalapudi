@@ -2,6 +2,7 @@ body{
     background-color: #e6e4d9;
     font-family:'Lato',sans-serif;
     margin:0px auto;
+    background-image: url('images/pattern.png');
 }
 
 #main-header{
