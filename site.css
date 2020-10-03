@@ -1,3 +1,7 @@
+*{
+    margin:0;
+}
+
 body{
     background-color: #e6e4d9;
     font-family:'Lato',sans-serif;
@@ -14,6 +18,22 @@ nav{
     width:1000px;
     margin:0 auto 20px;
 }
+
+nav > ul{
+    padding:0px;
+}
+
+nav > ul > li{
+    list-style:none;
+    display:inline-block;
+    margin:10px;
+}
+
+nav a {
+    text-decoration:none;
+}
+
+
 
 #container{
     width:1000px;
@@ -35,6 +55,11 @@ nav{
 #main{
     float:right;
     width:70%;
+}
+
+#kakinada{
+    font-weight:700;
+    color:#ef43aa;
 }
 
 footer{
